@@ -1,0 +1,17 @@
+/.idea/
+/src/css/
+/src/javascript/lib/
+/public/
+/node_modules
+.sass-cache
+*.DS_Store
+workspace.xml
+/dist
+i18ndist
+.tmp
+.tmp_zh_cn
+.tmp_en_us
+/slate
+website.access.log
+website-release-cn/
+npm-debug.log
